@@ -1,0 +1,60 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "John Snow",
+      "email": "snow@mail.com",
+      "telefone": 796547927,
+      "observacoes": "Contato John Snow",
+      "endereco": "Rua dos lobos",
+      "logradouro": "casa",
+      "localidade": "Winterfell",
+      "uf": "wta",
+      "cidade": "Winterfell",
+      "numero": 3581,
+      "cep": "3214578"
+    },
+    {
+      "id": 2,
+      "nome": "Darth vader",
+      "email": "dvader@email.com",
+      "telefone": "3195768954",
+      "observacoes": ".",
+      "endereco": "Estrela da morte",
+      "logradouro": "casa",
+      "localidade": "estrela da morte",
+      "uf": "mundo",
+      "cidade": "Siths",
+      "numero": "102",
+      "cep": "35254789"
+    },
+    {
+      "nome": "daenerys targaryen",
+      "email": "daenerys@mail.com",
+      "telefone": "5565987459988",
+      "observacoes": " Casa Targaryen",
+      "cidade": " Valíria",
+      "uf": "sete reinos",
+      "cep": 123987456,
+      "logradouro": "trono de ferro",
+      "localidade": "westeros",
+      "endereco": "palacios dos dragoes",
+      "numero": 124,
+      "id": 3
+    },
+    {
+      "nome": "E-turn",
+      "email": "eturn@eturn.com.br",
+      "telefone": 3133706539,
+      "cep": 30494270,
+      "endereco": "Av. Barão Homem de Melo",
+      "numero": 4386,
+      "logradouro": "Escritório",
+      "localidade": "Estoril",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "observacoes": "Escritório da e-turn",
+      "id": 6
+    }
+  ]
+}
